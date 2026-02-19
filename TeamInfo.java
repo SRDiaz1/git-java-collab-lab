@@ -1,3 +1,4 @@
+i// to be implemented
 public class TeamInfo {
 
 	public static void main(String[] args){
@@ -12,7 +13,8 @@ public class TeamInfo {
     }
 
     public static void printCourse() {
-        // to be implemented
+        System.out.println("Course: Software Engineering");
+
     }
 
     public static void printMembers() {
